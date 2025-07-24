@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rayhan Uddin</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h3 align="center">A Full Stack Full Stack Web Developer</h3>
 
 ---
 -  Reach me at **rayhanuddin226@gmail.com**
