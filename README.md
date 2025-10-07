@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" />
+  <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" /> -->
+  <img src=" https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?semt=ais_hybrid&w=740&q=80" />
+ 
 </p>
 
 <h1 align="center">Hi, I'm Rayhan Uddin</h1>
