@@ -110,3 +110,14 @@
 </p>
 
 ---
+
+### 🎖️ GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/Rayhan4649?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="65" alt="Pull Shark (x3)" title="Pull Shark (x3)" />
+  </a>
+  <a href="https://github.com/Rayhan4649?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="65" alt="YOLO" title="YOLO" />
+  </a>
+</p>
