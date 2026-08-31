@@ -9,7 +9,7 @@
   <a href="mailto:rayhanuddin226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://bd.linkedin.com/in/rayhan-uddin-317808206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
@@ -106,18 +106,7 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan4649&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rayhan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan4649&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan4649&theme=tokyonight&hide_border=true" alt="Rayhan's GitHub Streak" width="98%" />
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rayhan4649&theme=onedark&no-frame=true&no-bg=false&margin_w=4" alt="GitHub Trophies" />
-</p>
