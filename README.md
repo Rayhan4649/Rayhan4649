@@ -102,6 +102,11 @@
 </p>
 
 ---
+### Top Languages
+<p align="center">
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayhan4649&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayhan4649&theme=github" />
+</p>
 
 ### 📊 GitHub Activity & Stats
 
