@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on **Full Stack Web Applications using Laravel & Nuxt.js/Vue.js**
 - 🌱 I’m currently improving my skills in **Microservices, Docker, Redis & CI/CD Pipelines**
 - 👯 I’m looking to collaborate on **Open Source Projects & SaaS Products**
-- 💬 Ask me about **PHP, Laravel, Vue 3, Nuxt 3, TypeScript, Tailwind CSS, MySQL**
+- 💬 Ask me about **PHP, Laravel, Vue 3, Nuxt 4, TypeScript, Tailwind CSS, MySQL**
 - 📫 Reach me at: **rayhanuddin226@gmail.com**
 - ⚡ Fun fact: *I convert caffeine into clean, scalable, and bug-free code.*
 
